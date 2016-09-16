@@ -1,0 +1,17 @@
+C:\C#\программы\отпр\2SimpleTextEditor\SimpleTextEditor\bin\Debug\WordTextEditor.exe.config
+C:\C#\программы\отпр\WordTextEditor\SimpleTextEditor\bin\Debug\WordTextEditor.exe.config
+E:\экзамен\отправл\WordTextEditor\SimpleTextEditor\bin\Debug\WordTextEditor.exe.config
+E:\экзамен\отправл\WordTextEditor\SimpleTextEditor\bin\Debug\WordTextEditor.exe
+E:\экзамен\отправл\WordTextEditor\SimpleTextEditor\bin\Debug\WordTextEditor.pdb
+E:\экзамен\отправл\WordTextEditor\SimpleTextEditor\obj\Debug\WordTextEditor.csprojResolveAssemblyReference.cache
+E:\экзамен\отправл\WordTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Form1.resources
+E:\экзамен\отправл\WordTextEditor\SimpleTextEditor\obj\Debug\WordTextEditor.Properties.Resources.resources
+E:\экзамен\отправл\WordTextEditor\SimpleTextEditor\obj\Debug\WordTextEditor.csproj.GenerateResource.Cache
+E:\экзамен\отправл\WordTextEditor\SimpleTextEditor\obj\Debug\WordTextEditor.exe
+E:\экзамен\отправл\WordTextEditor\SimpleTextEditor\obj\Debug\WordTextEditor.pdb
+E:\экзамен\отправл\ПодсчётСлов\SimpleTextEditor\bin\Debug\WordTextEditor.exe.config
+E:\экзамен\отправл\ПодсчётСлов\SimpleTextEditor\obj\Debug\WordTextEditor.exe
+E:\экзамен\отправл\ПодсчётСлов\SimpleTextEditor\obj\Debug\WordTextEditor.pdb
+H:\диск H\файлы раб стол\c#1\отпр\ПодсчётСлов\SimpleTextEditor\bin\Debug\WordTextEditor.exe.config
+H:\диск H\файлы раб стол\c#1\отпр\ПодсчётСлов\SimpleTextEditor\obj\Debug\WordTextEditor.exe
+H:\диск H\файлы раб стол\c#1\отпр\ПодсчётСлов\SimpleTextEditor\obj\Debug\WordTextEditor.pdb

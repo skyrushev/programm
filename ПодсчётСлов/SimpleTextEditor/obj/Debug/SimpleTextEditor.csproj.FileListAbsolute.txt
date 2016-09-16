@@ -1,0 +1,55 @@
+H:\файлы раб стол\c#1\программы\2012\VS2013\Chapter_9\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe.config
+H:\файлы раб стол\c#1\программы\2012\VS2013\Chapter_9\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe
+H:\файлы раб стол\c#1\программы\2012\VS2013\Chapter_9\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.pdb
+H:\файлы раб стол\c#1\программы\2012\VS2013\Chapter_9\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csprojResolveAssemblyReference.cache
+H:\файлы раб стол\c#1\программы\2012\VS2013\Chapter_9\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Properties.Resources.resources
+H:\файлы раб стол\c#1\программы\2012\VS2013\Chapter_9\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csproj.GenerateResource.Cache
+H:\файлы раб стол\c#1\программы\2012\VS2013\Chapter_9\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.exe
+H:\файлы раб стол\c#1\программы\2012\VS2013\Chapter_9\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.pdb
+H:\диск H\файлы раб стол\c#1\программы\Chapter_9\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe.config
+H:\диск H\файлы раб стол\c#1\программы\Chapter_9\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.exe
+H:\диск H\файлы раб стол\c#1\программы\Chapter_9\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.pdb
+H:\диск H\файлы раб стол\c#1\программы\Chapter_9\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe
+H:\диск H\файлы раб стол\c#1\программы\Chapter_9\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.pdb
+H:\диск H\файлы раб стол\c#1\программы\Chapter_9\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csprojResolveAssemblyReference.cache
+H:\диск H\файлы раб стол\c#1\программы\Chapter_9\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Properties.Resources.resources
+H:\диск H\файлы раб стол\c#1\программы\Chapter_9\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csproj.GenerateResource.Cache
+H:\диск H\файлы раб стол\c#1\экзамен\коллекции\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe.config
+H:\диск H\файлы раб стол\c#1\экзамен\коллекции\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.exe
+H:\диск H\файлы раб стол\c#1\экзамен\коллекции\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.pdb
+H:\диск H\файлы раб стол\c#1\экзамен\коллекции\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe
+H:\диск H\файлы раб стол\c#1\экзамен\коллекции\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.pdb
+H:\диск H\файлы раб стол\c#1\экзамен\коллекции\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csprojResolveAssemblyReference.cache
+H:\диск H\файлы раб стол\c#1\экзамен\коллекции\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Form1.resources
+H:\диск H\файлы раб стол\c#1\экзамен\коллекции\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Properties.Resources.resources
+H:\диск H\файлы раб стол\c#1\экзамен\коллекции\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csproj.GenerateResource.Cache
+C:\C#\программы\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe.config
+C:\C#\программы\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.exe
+C:\C#\программы\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.pdb
+C:\C#\программы\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe
+C:\C#\программы\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.pdb
+C:\C#\программы\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csprojResolveAssemblyReference.cache
+C:\C#\программы\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Form1.resources
+C:\C#\программы\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Properties.Resources.resources
+C:\C#\программы\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csproj.GenerateResource.Cache
+E:\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe.config
+E:\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.exe
+E:\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.pdb
+E:\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe
+E:\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.pdb
+E:\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csprojResolveAssemblyReference.cache
+E:\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Form1.resources
+E:\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Properties.Resources.resources
+E:\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csproj.GenerateResource.Cache
+C:\C#\программы\2SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe.config
+C:\C#\программы\2SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.exe
+C:\C#\программы\2SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.pdb
+C:\C#\программы\2SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe
+C:\C#\программы\2SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.pdb
+C:\C#\программы\2SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csprojResolveAssemblyReference.cache
+C:\C#\программы\2SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Form1.resources
+C:\C#\программы\2SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Properties.Resources.resources
+C:\C#\программы\2SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csproj.GenerateResource.Cache
+C:\C#\программы\отпр\2SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe.config
+C:\C#\программы\отпр\2SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.exe
+C:\C#\программы\отпр\2SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.pdb
